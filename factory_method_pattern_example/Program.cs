@@ -1,4 +1,6 @@
 ﻿using System;
+using factory_method_pattern_example.Creator;
+using factory_method_pattern_example.Product;
 
 namespace factory_method_pattern_example
 {
@@ -6,7 +8,17 @@ namespace factory_method_pattern_example
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Room[] roomList = new Room[2];
+
+            roomList[0] = new PracticeRoomCreator().CreateRoom();
+            roomList[1] = new TheoryRoomCreator().CreateRoom();
+
+            foreach (Room room in roomList)
+            {
+                room.Show();
+            }
+
+            Console.Read();
         }
     }
 }
