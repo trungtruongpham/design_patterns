@@ -1,0 +1,13 @@
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.exe
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.deps.json
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.runtimeconfig.json
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.runtimeconfig.dev.json
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\bin\Debug\netcoreapp3.1\composite_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.csprojAssemblyReference.cache
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.AssemblyInfoInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.AssemblyInfo.cs
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.csproj.CoreCompileInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\composite_pattern\obj\Debug\netcoreapp3.1\composite_pattern.genruntimeconfig.cache
