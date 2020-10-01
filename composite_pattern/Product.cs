@@ -23,11 +23,6 @@ namespace composite_pattern
             return this.price;
         }
 
-        public override bool IsComposite()
-        {
-            return false;
-        }
-
         public override void Remove(ShoppingItem removeItem)
         {
             throw new System.NotImplementedException();

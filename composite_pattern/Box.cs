@@ -22,11 +22,6 @@ namespace composite_pattern
             return totalPriceBox;
         }
 
-        public override bool IsComposite()
-        {
-            return true;
-        }
-
         public override void Remove(ShoppingItem removeItem)
         {
             this.listProduct.Remove(removeItem);
@@ -39,7 +34,7 @@ namespace composite_pattern
             {
                 Console.Write(" " + product.GetType() + " ");
             }
-            Console.WriteLine("\n BOX PRICE : " + this.GetPrice());
+            Console.WriteLine("\nBOX PRICE : " + this.GetPrice());
             Console.WriteLine("\n ---------------------------");
         }
     }

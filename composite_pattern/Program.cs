@@ -28,6 +28,7 @@ namespace composite_pattern
             Order order = new Order();
             order.Add(box1);
             order.Add(box2);
+            order.Add(product4);
             order.Show();
 
             Console.ReadLine();

@@ -7,7 +7,6 @@ namespace composite_pattern
         public abstract void Add(ShoppingItem newItem);
         public abstract void Remove(ShoppingItem removeItem);
         public abstract int GetPrice();
-        public abstract bool IsComposite();
         public abstract void Show();
     }
 }
