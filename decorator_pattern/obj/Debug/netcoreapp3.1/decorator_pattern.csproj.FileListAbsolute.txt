@@ -1,0 +1,13 @@
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.exe
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.deps.json
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.runtimeconfig.json
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.runtimeconfig.dev.json
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\bin\Debug\netcoreapp3.1\decorator_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.csprojAssemblyReference.cache
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.AssemblyInfoInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.AssemblyInfo.cs
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.csproj.CoreCompileInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\decorator_pattern\obj\Debug\netcoreapp3.1\decorator_pattern.genruntimeconfig.cache
