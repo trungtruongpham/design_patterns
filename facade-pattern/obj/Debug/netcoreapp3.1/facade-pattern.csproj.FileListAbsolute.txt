@@ -1,0 +1,13 @@
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.exe
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.deps.json
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.runtimeconfig.json
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.runtimeconfig.dev.json
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\bin\Debug\netcoreapp3.1\facade-pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.csprojAssemblyReference.cache
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.AssemblyInfoInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.AssemblyInfo.cs
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.csproj.CoreCompileInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\facade-pattern\obj\Debug\netcoreapp3.1\facade-pattern.genruntimeconfig.cache
