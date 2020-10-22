@@ -6,12 +6,14 @@ namespace decorator_pattern
         {
         }
 
-        public override string DoPizza(){
+        public override string DoPizza()
+        {
             string type = this._pizza.DoPizza();
             return type + " + Cheese";
         }
 
-        private string AddCheese(){
+        private string AddCheese()
+        {
             return " + Cheese";
         }
     }
