@@ -1,0 +1,13 @@
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.exe
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.deps.json
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.runtimeconfig.json
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.runtimeconfig.dev.json
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\bin\Debug\netcoreapp3.1\proxy_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.csprojAssemblyReference.cache
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.AssemblyInfoInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.AssemblyInfo.cs
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.csproj.CoreCompileInputs.cache
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.dll
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.pdb
+D:\source\netcore\design_patterns_gang_of_four\proxy_pattern\obj\Debug\netcoreapp3.1\proxy_pattern.genruntimeconfig.cache
